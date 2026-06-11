@@ -1,6 +1,5 @@
 {
-  "$description": "Manage access using Microsoft Entra ID for identity governance scenarios.",
-  "$friendlyName": "Identity Governance Administrator",
+  "displayName": "Identity Governance Administrator",
   "isEnabled": true,
   "resourceScopes": [
     "/"

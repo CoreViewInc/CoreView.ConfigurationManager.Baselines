@@ -1,6 +1,5 @@
 {
-  "$description": "Can manage all aspects of Microsoft Entra ID and Microsoft services that use Microsoft Entra identities.",
-  "$friendlyName": "Global Administrator",
+  "displayName": "Global Administrator",
   "isEnabled": true,
   "resourceScopes": [
     "/"

@@ -1,5 +1,5 @@
 {
-  "$friendlyName": "Essential 8 Maturity level 2,3",
+  "displayName": "Essential 8 Maturity level 2,3",
   "allowedCombinations": [
     "fido2",
     "temporaryAccessPassMultiUse",

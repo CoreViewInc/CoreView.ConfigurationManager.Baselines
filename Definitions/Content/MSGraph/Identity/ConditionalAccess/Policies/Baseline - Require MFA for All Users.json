@@ -1,0 +1,42 @@
+{
+  "$description": "| What does this do? | Ensures all users are MFA capable and enforces multi-factor authentication for all users. |\n| Why should you use this? | Requires an additional form of identification for all users, enhancing security. |\n| What is the end-user impact? | All users will be required to enroll in multifactor authentication using phone, SMS, or an authentication application. |\n| Learn more | [All users MFA strength](https://learn.microsoft.com/en-us/entra/identity/conditional-access/policy-all-users-mfa-strength) |",
+  "$friendlyName": "Baseline - Require MFA for All Users",
+  "@odata.type": "#microsoft.graph.conditionalAccessPolicy",
+  "conditions": {
+    "applications": {
+      "excludeApplications": [],
+      "includeApplications": [
+        "All"
+      ],
+      "includeAuthenticationContextClassReferences": [],
+      "includeUserActions": []
+    },
+    "clientAppTypes": [
+      "all"
+    ],
+    "signInRiskLevels": [],
+    "userRiskLevels": [],
+    "users": {
+      "excludeGroups": [],
+      "excludeRoles": [],
+      "excludeUsers": [
+        "${urn:resource:MSGraph:Users/break-glass@${ResourceContext:TenantDomainName}?id}",
+        "${urn:resource:MSGraph:Users/emergency-access@${ResourceContext:TenantDomainName}?id}"
+      ],
+      "includeGroups": [],
+      "includeRoles": [],
+      "includeUsers": [
+        "All"
+      ]
+    }
+  },
+  "grantControls": {
+    "builtInControls": [
+      "mfa"
+    ],
+    "customAuthenticationFactors": [],
+    "operator": "OR",
+    "termsOfUse": []
+  },
+  "state": "enabledForReportingButNotEnforced"
+}

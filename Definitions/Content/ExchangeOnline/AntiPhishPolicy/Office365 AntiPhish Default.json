@@ -1,0 +1,41 @@
+{
+  "$description": "| What does this do? | Establishes an anti-phishing policy in the tenant. |\n| Why should you use this? | Fine-tunes the anti-phishing posture of the tenant to offer improved protection. |\n| What is the end-user impact? | Minimal impact, some user education is advised. |\n| Learn more | [Anti-phishing policies](https://learn.microsoft.com/en-us/defender-office-365/anti-phishing-policies-mdo-configure) |",
+  "$friendlyName": "Office365 AntiPhish Default",
+  "AuthenticationFailAction": "MoveToJmf",
+  "DmarcQuarantineAction": "Quarantine",
+  "DmarcRejectAction": "Reject",
+  "EnableFirstContactSafetyTips": true,
+  "EnableMailboxIntelligence": true,
+  "EnableMailboxIntelligenceProtection": true,
+  "EnableOrganizationDomainsProtection": true,
+  "EnableSimilarDomainsSafetyTips": true,
+  "EnableSimilarUsersSafetyTips": true,
+  "EnableSpoofIntelligence": true,
+  "EnableTargetedDomainsProtection": false,
+  "EnableTargetedUserProtection": true,
+  "EnableUnauthenticatedSender": true,
+  "EnableUnusualCharactersSafetyTips": true,
+  "EnableViaTag": true,
+  "ExcludedDomains": [],
+  "ExcludedSenders": [],
+  "HonorDmarcPolicy": true,
+  "ImpersonationProtectionState": "Manual",
+  "IsDefault": true,
+  "MailboxIntelligenceProtectionAction": "NoAction",
+  "MailboxIntelligenceProtectionActionRecipients": [],
+  "MailboxIntelligenceQuarantineTag": "${urn:resource:ExchangeOnline:QuarantinePolicy/DefaultFullAccessPolicy?Name}",
+  "PhishThresholdLevel": 3,
+  "SpoofQuarantineTag": "${urn:resource:ExchangeOnline:QuarantinePolicy/DefaultFullAccessPolicy?Name}",
+  "TargetedDomainActionRecipients": [],
+  "TargetedDomainProtectionAction": [
+    "NoAction"
+  ],
+  "TargetedDomainQuarantineTag": "${urn:resource:ExchangeOnline:QuarantinePolicy/DefaultFullAccessPolicy?Name}",
+  "TargetedDomainsToProtect": [],
+  "TargetedUserActionRecipients": [],
+  "TargetedUserProtectionAction": [
+    "NoAction"
+  ],
+  "TargetedUserQuarantineTag": "${urn:resource:ExchangeOnline:QuarantinePolicy/DefaultFullAccessPolicy?Name}",
+  "TargetedUsersToProtect": []
+}

@@ -6,7 +6,6 @@
   "country": "US",
   "displayName": "MOD Administrator",
   "givenName": "MOD",
-  "isDeviceEnrollmentManager": false,
   "mail": "admin@${ResourceContext:TenantDomainName}",
   "mailNickname": "admin",
   "mobilePhone": "425-555-0101",

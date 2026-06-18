@@ -1,6 +1,5 @@
 {
-  "$description": "Phishing-resistant, passwordless methods for the strongest authentication, such as a FIDO2 security key.",
-  "$friendlyName": "Phishing-resistant MFA",
+  "displayName": "Phishing-resistant MFA",
   "allowedCombinations": [
     "fido2",
     "windowsHelloForBusiness",

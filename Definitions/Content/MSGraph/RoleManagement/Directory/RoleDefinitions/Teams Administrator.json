@@ -1,6 +1,5 @@
 {
-  "$description": "Can manage the Microsoft Teams service.",
-  "$friendlyName": "Teams Administrator",
+  "displayName": "Teams Administrator",
   "isEnabled": true,
   "resourceScopes": [
     "/"

@@ -1,8 +1,7 @@
 {
-  "$friendlyName": "Baseline - Break Glass",
-  "$name": "break-glass@${ResourceContext:TenantDomainName}",
-  "accountEnabled": true,
   "displayName": "Baseline - Break Glass",
+  "userPrincipalName": "break-glass@${ResourceContext:TenantDomainName}",
+  "accountEnabled": true,
   "mailNickname": "break-glass",
   "userType": "Member"
 }

@@ -1,7 +1,6 @@
 {
-  "$description": "| What does this do? | **This policy is in Report Only mode. Before enabaling, consider excluding break glass accounts and account for any guest users in the tenant. This must be enabled to be compilant** Requires all devices access the tenant to be compliant. |\n| Why should you use this? | Managed devices are considered more secure. |\n| What is the end-user impact? | Users must use a compliant device to access Microsoft resources. |\n| Learn more | []() |",
+  "displayName": "Baseline - Requrie Compliant Device",
   "@odata.type": "#microsoft.graph.conditionalAccessPolicy",
-  "$friendlyName": "Baseline - Requrie Compliant Device",
   "conditions": {
     "applications": {
       "excludeApplications": [],

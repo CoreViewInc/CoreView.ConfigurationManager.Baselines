@@ -1,5 +1,5 @@
 {
-  "$friendlyName": "Windows Update - Broad Ring",
+  "displayName": "Windows Update - Broad Ring",
   "groupTypes": [],
   "infoCatalogs": [],
   "mailEnabled": false,

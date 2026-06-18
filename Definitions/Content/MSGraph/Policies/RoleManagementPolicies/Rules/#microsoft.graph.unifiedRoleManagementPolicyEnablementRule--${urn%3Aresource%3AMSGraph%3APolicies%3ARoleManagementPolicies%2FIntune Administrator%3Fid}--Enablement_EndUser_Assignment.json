@@ -1,6 +1,6 @@
 {
+  "displayName": "Intune Administrator--Enablement_EndUser_Assignment",
   "@odata.type": "#microsoft.graph.unifiedRoleManagementPolicyEnablementRule",
-  "$friendlyName": "Intune Administrator--Enablement_EndUser_Assignment",
   "$name": "#microsoft.graph.unifiedRoleManagementPolicyEnablementRule--${urn:resource:MSGraph:Policies:RoleManagementPolicies/Intune Administrator?id}--Enablement_EndUser_Assignment",
   "enabledRules": [
     "Justification",

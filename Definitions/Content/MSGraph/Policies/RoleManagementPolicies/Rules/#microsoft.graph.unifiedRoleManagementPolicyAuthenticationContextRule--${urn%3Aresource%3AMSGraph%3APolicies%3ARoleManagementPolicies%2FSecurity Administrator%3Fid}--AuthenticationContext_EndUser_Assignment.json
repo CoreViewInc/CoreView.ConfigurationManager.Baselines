@@ -1,6 +1,6 @@
 {
+  "displayName": "Security Administrator--AuthenticationContext_EndUser_Assignment",
   "@odata.type": "#microsoft.graph.unifiedRoleManagementPolicyAuthenticationContextRule",
-  "$friendlyName": "Security Administrator--AuthenticationContext_EndUser_Assignment",
   "$name": "#microsoft.graph.unifiedRoleManagementPolicyAuthenticationContextRule--${urn:resource:MSGraph:Policies:RoleManagementPolicies/Security Administrator?id}--AuthenticationContext_EndUser_Assignment",
   "claimValue": "",
   "id": "AuthenticationContext_EndUser_Assignment",

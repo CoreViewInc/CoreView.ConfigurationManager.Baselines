@@ -1,4 +1,3 @@
 {
-  "$description": "Default Role Scope Tag. This will exist by default on all Intune entities whenever a user defined Role Scope Tag is not present.",
-  "$friendlyName": "Default"
+  "displayName": "Default"
 }

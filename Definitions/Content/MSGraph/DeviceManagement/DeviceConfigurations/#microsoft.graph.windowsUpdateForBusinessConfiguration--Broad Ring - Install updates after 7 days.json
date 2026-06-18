@@ -1,7 +1,6 @@
 {
+  "displayName": "Broad Ring - Install updates after 7 days",
   "@odata.type": "#microsoft.graph.windowsUpdateForBusinessConfiguration",
-  "$description": "| What does this do? | Assigns broad population devices to a ring that installs updates after 7 days, following pilot and test deployment groups. |\n| Why should you use this? | Provides lag time for update validation and rollback in response to issues. |\n| What is the end-user impact? | Updates are delayed, reducing risk of mass issues. |\n| Learn more | [Configure Windows Update for business rings](https://learn.microsoft.com/en-us/compliance/anz/e8-patchos-configure-wufb-rings) |",
-  "$friendlyName": "Broad Ring - Install updates after 7 days",
   "$name": "#microsoft.graph.windowsUpdateForBusinessConfiguration--Broad Ring - Install updates after 7 days",
   "allowWindows11Upgrade": false,
   "automaticUpdateMode": "autoInstallAtMaintenanceTime",
@@ -12,7 +11,6 @@
   "deadlineGracePeriodInDays": 2,
   "deliveryOptimizationMode": "userDefined",
   "description": "",
-  "displayName": "Broad Ring - Install updates after 7 days",
   "driversExcluded": false,
   "featureUpdatesDeferralPeriodInDays": 60,
   "featureUpdatesPaused": false,

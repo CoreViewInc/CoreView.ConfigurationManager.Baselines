@@ -1,6 +1,6 @@
 {
+  "displayName": "Identity Governance Administrator--Notification_Admin_Admin_Assignment",
   "@odata.type": "#microsoft.graph.unifiedRoleManagementPolicyNotificationRule",
-  "$friendlyName": "Identity Governance Administrator--Notification_Admin_Admin_Assignment",
   "$name": "#microsoft.graph.unifiedRoleManagementPolicyNotificationRule--${urn:resource:MSGraph:Policies:RoleManagementPolicies/Identity Governance Administrator?id}--Notification_Admin_Admin_Assignment",
   "id": "Notification_Admin_Admin_Assignment",
   "isDefaultRecipientsEnabled": true,

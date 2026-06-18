@@ -1,8 +1,7 @@
 {
-  "$friendlyName": "Baseline - Emergency Access",
-  "$name": "emergency-access@${ResourceContext:TenantDomainName}",
-  "accountEnabled": true,
   "displayName": "Baseline - Emergency Access",
+  "userPrincipalName": "emergency-access@${ResourceContext:TenantDomainName}",
+  "accountEnabled": true,
   "mailNickname": "emergency-access",
   "userType": "Member"
 }

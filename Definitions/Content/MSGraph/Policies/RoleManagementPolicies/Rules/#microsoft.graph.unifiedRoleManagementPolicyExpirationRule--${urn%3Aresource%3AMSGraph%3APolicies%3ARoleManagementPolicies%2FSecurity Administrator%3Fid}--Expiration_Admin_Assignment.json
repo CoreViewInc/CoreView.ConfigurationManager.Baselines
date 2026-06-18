@@ -1,6 +1,6 @@
 {
+  "displayName": "Security Administrator--Expiration_Admin_Assignment",
   "@odata.type": "#microsoft.graph.unifiedRoleManagementPolicyExpirationRule",
-  "$friendlyName": "Security Administrator--Expiration_Admin_Assignment",
   "$name": "#microsoft.graph.unifiedRoleManagementPolicyExpirationRule--${urn:resource:MSGraph:Policies:RoleManagementPolicies/Security Administrator?id}--Expiration_Admin_Assignment",
   "id": "Expiration_Admin_Assignment",
   "isExpirationRequired": true,

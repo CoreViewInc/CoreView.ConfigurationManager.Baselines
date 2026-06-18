@@ -1,4 +1,4 @@
 {
-  "$friendlyName": "Privileged Authentication Administrator",
+  "displayName": "Privileged Authentication Administrator",
   "roleTemplateId": "${urn:resource:MSGraph:RoleManagement:Directory:RoleDefinitions/Privileged Authentication Administrator?id}"
 }

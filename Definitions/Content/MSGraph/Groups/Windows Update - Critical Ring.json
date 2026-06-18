@@ -1,5 +1,5 @@
 {
-  "$friendlyName": "Windows Update - Critical Ring",
+  "displayName": "Windows Update - Critical Ring",
   "groupTypes": [],
   "infoCatalogs": [],
   "mailEnabled": false,

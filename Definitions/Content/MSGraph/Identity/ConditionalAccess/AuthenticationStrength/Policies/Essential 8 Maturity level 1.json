@@ -1,5 +1,5 @@
 {
-  "$friendlyName": "Essential 8 Maturity level 1",
+  "displayName": "Essential 8 Maturity level 1",
   "allowedCombinations": [
     "deviceBasedPush",
     "federatedMultiFactor",

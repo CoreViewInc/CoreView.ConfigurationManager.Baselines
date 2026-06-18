@@ -1,6 +1,5 @@
 {
-  "$description": "Can create and manage all aspects of app registrations and enterprise apps except App Proxy.",
-  "$friendlyName": "Cloud Application Administrator",
+  "displayName": "Cloud Application Administrator",
   "isEnabled": true,
   "resourceScopes": [
     "/"

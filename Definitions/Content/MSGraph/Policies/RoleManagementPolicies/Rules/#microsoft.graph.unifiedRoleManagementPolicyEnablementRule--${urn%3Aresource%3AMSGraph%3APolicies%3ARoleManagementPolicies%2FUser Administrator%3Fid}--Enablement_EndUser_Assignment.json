@@ -1,6 +1,6 @@
 {
+  "displayName": "User Administrator--Enablement_EndUser_Assignment",
   "@odata.type": "#microsoft.graph.unifiedRoleManagementPolicyEnablementRule",
-  "$friendlyName": "User Administrator--Enablement_EndUser_Assignment",
   "$name": "#microsoft.graph.unifiedRoleManagementPolicyEnablementRule--${urn:resource:MSGraph:Policies:RoleManagementPolicies/User Administrator?id}--Enablement_EndUser_Assignment",
   "enabledRules": [
     "Justification",

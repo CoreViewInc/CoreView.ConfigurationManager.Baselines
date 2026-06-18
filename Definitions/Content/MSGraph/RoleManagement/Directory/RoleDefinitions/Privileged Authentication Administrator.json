@@ -1,6 +1,5 @@
 {
-  "$description": "Can access to view, set and reset authentication method information for any user (admin or non-admin).",
-  "$friendlyName": "Privileged Authentication Administrator",
+  "displayName": "Privileged Authentication Administrator",
   "isEnabled": true,
   "resourceScopes": [
     "/"

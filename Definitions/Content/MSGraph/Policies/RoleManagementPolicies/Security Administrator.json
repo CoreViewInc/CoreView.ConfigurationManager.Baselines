@@ -1,4 +1,4 @@
 {
-  "$friendlyName": "Security Administrator",
+  "displayName": "Security Administrator",
   "roleDefinitionId": "${urn:resource:MSGraph:RoleManagement:Directory:RoleDefinitions/Security Administrator?id}"
 }

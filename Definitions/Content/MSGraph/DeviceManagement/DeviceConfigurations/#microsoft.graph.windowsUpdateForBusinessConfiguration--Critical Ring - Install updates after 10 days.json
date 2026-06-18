@@ -1,7 +1,6 @@
 {
+  "displayName": "Critical Ring - Install updates after 10 days",
   "@odata.type": "#microsoft.graph.windowsUpdateForBusinessConfiguration",
-  "$description": "| What does this do? | Defines the Critical Ring for Windows Updates assignments. |\n| Why should you use this? | Assigns business-critical devices to a ring that receives updates at a time appropriate for stability and minimum interruption. |\n| What is the end-user impact? | Updates are deployed with a critical business rhythm in mind. |\n| Learn more | [Configure Windows Update for business rings](https://learn.microsoft.com/en-us/compliance/anz/e8-patchos-configure-wufb-rings) |",
-  "$friendlyName": "Critical Ring - Install updates after 10 days",
   "$name": "#microsoft.graph.windowsUpdateForBusinessConfiguration--Critical Ring - Install updates after 10 days",
   "allowWindows11Upgrade": false,
   "automaticUpdateMode": "autoInstallAtMaintenanceTime",
@@ -12,7 +11,6 @@
   "deadlineGracePeriodInDays": 2,
   "deliveryOptimizationMode": "userDefined",
   "description": "",
-  "displayName": "Critical Ring - Install updates after 10 days",
   "driversExcluded": false,
   "featureUpdatesDeferralPeriodInDays": 60,
   "featureUpdatesPaused": false,

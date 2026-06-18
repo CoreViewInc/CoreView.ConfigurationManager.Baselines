@@ -1,5 +1,5 @@
 {
-  "$friendlyName": "Windows Update - Fast Ring",
+  "displayName": "Windows Update - Fast Ring",
   "groupTypes": [],
   "infoCatalogs": [],
   "mailEnabled": false,

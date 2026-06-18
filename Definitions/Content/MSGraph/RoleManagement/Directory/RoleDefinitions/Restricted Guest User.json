@@ -1,6 +1,5 @@
 {
-  "$description": "Restricted role for guest users. Can read a limited set of directory information.",
-  "$friendlyName": "Restricted Guest User",
+  "displayName": "Restricted Guest User",
   "isEnabled": true,
   "resourceScopes": [
     "/"

@@ -1,10 +1,9 @@
 {
-  "$friendlyName": "MOD Administrator",
-  "$name": "admin@${ResourceContext:TenantDomainName}",
+  "displayName": "MOD Administrator",
+  "userPrincipalName": "admin@${ResourceContext:TenantDomainName}",
   "accountEnabled": true,
   "companyName": "aaaa",
   "country": "US",
-  "displayName": "MOD Administrator",
   "givenName": "MOD",
   "mail": "admin@${ResourceContext:TenantDomainName}",
   "mailNickname": "admin",

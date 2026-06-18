@@ -1,6 +1,6 @@
 {
+  "displayName": "Privileged Role Administrator--AuthenticationContext_EndUser_Assignment",
   "@odata.type": "#microsoft.graph.unifiedRoleManagementPolicyAuthenticationContextRule",
-  "$friendlyName": "Privileged Role Administrator--AuthenticationContext_EndUser_Assignment",
   "$name": "#microsoft.graph.unifiedRoleManagementPolicyAuthenticationContextRule--${urn:resource:MSGraph:Policies:RoleManagementPolicies/Privileged Role Administrator?id}--AuthenticationContext_EndUser_Assignment",
   "claimValue": "",
   "id": "AuthenticationContext_EndUser_Assignment",

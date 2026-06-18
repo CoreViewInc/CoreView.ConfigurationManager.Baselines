@@ -1,5 +1,5 @@
 {
-  "$friendlyName": "Windows Update - Pilot Ring",
+  "displayName": "Windows Update - Pilot Ring",
   "groupTypes": [],
   "infoCatalogs": [],
   "mailEnabled": false,

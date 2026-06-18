@@ -1,6 +1,5 @@
 {
-  "$description": "The tenant-wide policy that controls which authentication methods are allowed in the tenant, authentication method registration requirements, and self-service password reset settings",
-  "$friendlyName": "Authentication Methods Policy",
+  "displayName": "Authentication Methods Policy",
   "microsoftAuthenticatorPlatformSettings": {
     "enforceAppPIN": {
       "excludeTargets": [],

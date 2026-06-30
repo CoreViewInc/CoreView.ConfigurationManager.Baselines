@@ -1,7 +1,6 @@
 {
   "displayName": "Security Administrator--Enablement_Admin_Assignment",
   "@odata.type": "#microsoft.graph.unifiedRoleManagementPolicyEnablementRule",
-  "$name": "#microsoft.graph.unifiedRoleManagementPolicyEnablementRule--${urn:resource:MSGraph:Policies:RoleManagementPolicies/Security Administrator?id}--Enablement_Admin_Assignment",
   "enabledRules": [
     "Justification",
     "MultiFactorAuthentication"

@@ -1,7 +1,6 @@
 {
   "displayName": "Fast Ring - Install updates after 4 days",
   "@odata.type": "#microsoft.graph.windowsUpdateForBusinessConfiguration",
-  "$name": "#microsoft.graph.windowsUpdateForBusinessConfiguration--Fast Ring - Install updates after 4 days",
   "allowWindows11Upgrade": false,
   "automaticUpdateMode": "autoInstallAtMaintenanceTime",
   "autoRestartNotificationDismissal": "notConfigured",

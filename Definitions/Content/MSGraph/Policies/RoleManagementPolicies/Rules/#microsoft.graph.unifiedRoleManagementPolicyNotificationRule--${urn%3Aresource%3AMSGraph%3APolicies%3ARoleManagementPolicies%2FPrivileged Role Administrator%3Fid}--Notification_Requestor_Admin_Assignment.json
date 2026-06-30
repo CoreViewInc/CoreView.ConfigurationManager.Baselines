@@ -1,7 +1,6 @@
 {
   "displayName": "Privileged Role Administrator--Notification_Requestor_Admin_Assignment",
   "@odata.type": "#microsoft.graph.unifiedRoleManagementPolicyNotificationRule",
-  "$name": "#microsoft.graph.unifiedRoleManagementPolicyNotificationRule--${urn:resource:MSGraph:Policies:RoleManagementPolicies/Privileged Role Administrator?id}--Notification_Requestor_Admin_Assignment",
   "id": "Notification_Requestor_Admin_Assignment",
   "isDefaultRecipientsEnabled": true,
   "notificationLevel": "All",

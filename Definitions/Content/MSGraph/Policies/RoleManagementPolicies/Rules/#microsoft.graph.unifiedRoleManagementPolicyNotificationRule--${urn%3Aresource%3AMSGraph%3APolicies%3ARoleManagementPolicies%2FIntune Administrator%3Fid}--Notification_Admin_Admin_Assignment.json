@@ -1,7 +1,6 @@
 {
   "displayName": "Intune Administrator--Notification_Admin_Admin_Assignment",
   "@odata.type": "#microsoft.graph.unifiedRoleManagementPolicyNotificationRule",
-  "$name": "#microsoft.graph.unifiedRoleManagementPolicyNotificationRule--${urn:resource:MSGraph:Policies:RoleManagementPolicies/Intune Administrator?id}--Notification_Admin_Admin_Assignment",
   "id": "Notification_Admin_Admin_Assignment",
   "isDefaultRecipientsEnabled": true,
   "notificationLevel": "All",

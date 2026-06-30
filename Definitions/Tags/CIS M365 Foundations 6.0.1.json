@@ -123,6 +123,7 @@
     },
     {
       "path": "Content/MSGraph/Domains/${ResourceContext%3ATenantDomainName}.json",
+      "$name": "${ResourceContext:TenantDomainName}",
       "description": [
         "1.3.1 (L1) Ensure the 'Password expiration policy' is set to 'Set passwords to never expire (recommended)' (Automated)"
       ]
@@ -462,12 +463,14 @@
     },
     {
       "path": "Content/MSGraph/Policies/RoleManagementPolicies/Rules/#microsoft.graph.unifiedRoleManagementPolicyApprovalRule--${urn%3Aresource%3AMSGraph%3APolicies%3ARoleManagementPolicies%2FGlobal Administrator%3Fid}--Approval_EndUser_Assignment.json",
+      "$name": "#microsoft.graph.unifiedRoleManagementPolicyApprovalRule--${urn:resource:MSGraph:Policies:RoleManagementPolicies/Global Administrator?id}--Approval_EndUser_Assignment",
       "description": [
         "5.3.4 (L1) Ensure approval is required for Global Administrator role activation (Automated)"
       ]
     },
     {
       "path": "Content/MSGraph/Policies/RoleManagementPolicies/Rules/#microsoft.graph.unifiedRoleManagementPolicyApprovalRule--${urn%3Aresource%3AMSGraph%3APolicies%3ARoleManagementPolicies%2FPrivileged Role Administrator%3Fid}--Approval_EndUser_Assignment.json",
+      "$name": "#microsoft.graph.unifiedRoleManagementPolicyApprovalRule--${urn:resource:MSGraph:Policies:RoleManagementPolicies/Privileged Role Administrator?id}--Approval_EndUser_Assignment",
       "description": [
         "5.3.5 (L1) Ensure approval is required for Privileged Role Administrator activation (Automated)"
       ]

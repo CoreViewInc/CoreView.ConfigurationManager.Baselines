@@ -1,7 +1,6 @@
 {
   "displayName": "Identity Governance Administrator--Enablement_Admin_Eligibility",
   "@odata.type": "#microsoft.graph.unifiedRoleManagementPolicyEnablementRule",
-  "$name": "#microsoft.graph.unifiedRoleManagementPolicyEnablementRule--${urn:resource:MSGraph:Policies:RoleManagementPolicies/Identity Governance Administrator?id}--Enablement_Admin_Eligibility",
   "enabledRules": [],
   "id": "Enablement_Admin_Eligibility",
   "target": {

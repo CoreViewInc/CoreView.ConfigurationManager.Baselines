@@ -1,7 +1,6 @@
 {
   "displayName": "Test Ring - Install updates immediately",
   "@odata.type": "#microsoft.graph.windowsUpdateForBusinessConfiguration",
-  "$name": "#microsoft.graph.windowsUpdateForBusinessConfiguration--Test Ring - Install updates immediately",
   "allowWindows11Upgrade": false,
   "automaticUpdateMode": "autoInstallAndRebootWithoutEndUserControl",
   "autoRestartNotificationDismissal": "notConfigured",

@@ -41,6 +41,7 @@
     },
     {
       "path": "Content/MSGraph/DeviceManagement/DeviceConfigurations/#microsoft.graph.windowsUpdateForBusinessConfiguration--Broad Ring - Install updates after 7 days.json",
+      "$name": "#microsoft.graph.windowsUpdateForBusinessConfiguration--Broad Ring - Install updates after 7 days",
       "description": [
         "ISM 1694 Patches, updates or other vendor mitigations for vulnerabilities in operating systems of internet-facing servers and internet-facing network devices are applied within two weeks of release when vulnerabilities are assessed as noncritical by vendors and no working exploits exist",
         "ISM 1501 Operating systems that are no longer supported by vendors are replaced"
@@ -48,6 +49,7 @@
     },
     {
       "path": "Content/MSGraph/DeviceManagement/DeviceConfigurations/#microsoft.graph.windowsUpdateForBusinessConfiguration--Critical Ring - Install updates after 10 days.json",
+      "$name": "#microsoft.graph.windowsUpdateForBusinessConfiguration--Critical Ring - Install updates after 10 days",
       "description": [
         "ISM 1694 Patches, updates or other vendor mitigations for vulnerabilities in operating systems of internet-facing servers and internet-facing network devices are applied within two weeks of release when vulnerabilities are assessed as noncritical by vendors and no working exploits exist",
         "ISM 1501 Operating systems that are no longer supported by vendors are replaced"
@@ -55,6 +57,7 @@
     },
     {
       "path": "Content/MSGraph/DeviceManagement/DeviceConfigurations/#microsoft.graph.windowsUpdateForBusinessConfiguration--Fast Ring - Install updates after 4 days.json",
+      "$name": "#microsoft.graph.windowsUpdateForBusinessConfiguration--Fast Ring - Install updates after 4 days",
       "description": [
         "ISM 1694 Patches, updates or other vendor mitigations for vulnerabilities in operating systems of internet-facing servers and internet-facing network devices are applied within two weeks of release when vulnerabilities are assessed as noncritical by vendors and no working exploits exist",
         "ISM 1501 Operating systems that are no longer supported by vendors are replaced"
@@ -62,6 +65,7 @@
     },
     {
       "path": "Content/MSGraph/DeviceManagement/DeviceConfigurations/#microsoft.graph.windowsUpdateForBusinessConfiguration--Pilot Ring - Install updates after 2 days.json",
+      "$name": "#microsoft.graph.windowsUpdateForBusinessConfiguration--Pilot Ring - Install updates after 2 days",
       "description": [
         "ISM 1694 Patches, updates or other vendor mitigations for vulnerabilities in operating systems of internet-facing servers and internet-facing network devices are applied within two weeks of release when vulnerabilities are assessed as noncritical by vendors and no working exploits exist",
         "ISM 1501 Operating systems that are no longer supported by vendors are replaced"
@@ -69,6 +73,7 @@
     },
     {
       "path": "Content/MSGraph/DeviceManagement/DeviceConfigurations/#microsoft.graph.windowsUpdateForBusinessConfiguration--Test Ring - Install updates immediately.json",
+      "$name": "#microsoft.graph.windowsUpdateForBusinessConfiguration--Test Ring - Install updates immediately",
       "description": [
         "ISM 1694 Patches, updates or other vendor mitigations for vulnerabilities in operating systems of internet-facing servers and internet-facing network devices are applied within two weeks of release when vulnerabilities are assessed as noncritical by vendors and no working exploits exist",
         "ISM 1501 Operating systems that are no longer supported by vendors are replaced"
@@ -136,6 +141,7 @@
     },
     {
       "path": "Content/MSGraph/Policies/RoleManagementPolicies/Rules/#microsoft.graph.unifiedRoleManagementPolicyApprovalRule--${urn%3Aresource%3AMSGraph%3APolicies%3ARoleManagementPolicies%2FGlobal Administrator%3Fid}--Approval_EndUser_Assignment.json",
+      "$name": "#microsoft.graph.unifiedRoleManagementPolicyApprovalRule--${urn:resource:MSGraph:Policies:RoleManagementPolicies/Global Administrator?id}--Approval_EndUser_Assignment",
       "description": [
         "Consider adding role management settings for additional roles commonly used in the org.",
         "ISM 1507 Requests for privileged access to systems, applications, and data repositories are validated when first requested",

@@ -1,10 +1,8 @@
 {
-  "@odata.type": "#microsoft.graph.emailAuthenticationMethodConfiguration",
   "allowExternalIdToUseEmailOtp": "default",
   "excludeTargets": [],
   "includeTargets": [
     {
-      "@odata.type": "#microsoft.graph.authenticationMethodTarget",
       "id": "all_users",
       "isRegistrationRequired": false,
       "targetType": "group"

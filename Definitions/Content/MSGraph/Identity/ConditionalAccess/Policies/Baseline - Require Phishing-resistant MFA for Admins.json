@@ -1,6 +1,5 @@
 {
   "displayName": "Baseline - Require Phishing-resistant MFA for Admins",
-  "@odata.type": "#microsoft.graph.conditionalAccessPolicy",
   "conditions": {
     "applications": {
       "excludeApplications": [],

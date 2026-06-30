@@ -1,6 +1,5 @@
 {
   "displayName": "Baseline - Block Access to Admin Portals",
-  "@odata.type": "#microsoft.graph.conditionalAccessPolicy",
   "conditions": {
     "applications": {
       "excludeApplications": [],

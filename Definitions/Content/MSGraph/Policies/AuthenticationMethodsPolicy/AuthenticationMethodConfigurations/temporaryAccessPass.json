@@ -1,11 +1,9 @@
 {
-  "@odata.type": "#microsoft.graph.temporaryAccessPassAuthenticationMethodConfiguration",
   "defaultLength": 8,
   "defaultLifetimeInMinutes": 60,
   "excludeTargets": [],
   "includeTargets": [
     {
-      "@odata.type": "#microsoft.graph.authenticationMethodTarget",
       "id": "all_users",
       "isRegistrationRequired": false,
       "targetType": "group"

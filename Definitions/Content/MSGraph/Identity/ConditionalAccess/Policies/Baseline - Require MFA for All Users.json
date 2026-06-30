@@ -1,6 +1,5 @@
 {
   "displayName": "Baseline - Require MFA for All Users",
-  "@odata.type": "#microsoft.graph.conditionalAccessPolicy",
   "conditions": {
     "applications": {
       "excludeApplications": [],

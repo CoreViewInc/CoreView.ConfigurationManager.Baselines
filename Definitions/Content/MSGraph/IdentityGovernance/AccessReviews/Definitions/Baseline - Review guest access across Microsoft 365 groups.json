@@ -6,7 +6,6 @@
   "descriptionForReviewers": "",
   "fallbackReviewers": [],
   "instanceEnumerationScope": {
-    "@odata.type": "#microsoft.graph.accessReviewQueryScope",
     "query": "/v1.0/groups?$filter=(groupTypes/any(c:c+eq+'Unified'))&$count=true",
     "queryType": "MicrosoftGraph"
   },
@@ -17,15 +16,12 @@
     }
   ],
   "scope": {
-    "@odata.type": "#microsoft.graph.accessReviewQueryScope",
     "query": "./members/microsoft.graph.user/?$count=true&$filter=(userType eq 'Guest')",
     "queryType": "MicrosoftGraph"
   },
   "settings": {
     "applyActions": [
-      {
-        "@odata.type": "#microsoft.graph.removeAccessApplyAction"
-      }
+      {}
     ],
     "autoApplyDecisionsEnabled": true,
     "decisionHistoriesForReviewersEnabled": false,
@@ -36,7 +32,6 @@
     "mailNotificationsEnabled": true,
     "recommendationInsightSettings": [
       {
-        "@odata.type": "#microsoft.graph.userLastSignInRecommendationInsightSetting",
         "recommendationLookBackDuration": "P30D",
         "signInScope": "tenant"
       }

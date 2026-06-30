@@ -1,5 +1,4 @@
 {
-  "@odata.type": "#microsoft.graph.microsoftAuthenticatorAuthenticationMethodConfiguration",
   "excludeTargets": [],
   "featureSettings": {
     "companionAppAllowedState": {
@@ -38,7 +37,6 @@
   },
   "includeTargets": [
     {
-      "@odata.type": "#microsoft.graph.authenticationMethodTarget",
       "id": "all_users",
       "isRegistrationRequired": false,
       "targetType": "group"

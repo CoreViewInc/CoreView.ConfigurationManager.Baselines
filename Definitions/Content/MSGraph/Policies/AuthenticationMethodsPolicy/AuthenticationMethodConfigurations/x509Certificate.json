@@ -1,5 +1,4 @@
 {
-  "@odata.type": "#microsoft.graph.x509CertificateAuthenticationMethodConfiguration",
   "authenticationModeConfiguration": {
     "rules": [],
     "x509CertificateAuthenticationDefaultMode": "x509CertificateSingleFactor",
@@ -28,7 +27,6 @@
   "excludeTargets": [],
   "includeTargets": [
     {
-      "@odata.type": "#microsoft.graph.authenticationMethodTarget",
       "id": "all_users",
       "isRegistrationRequired": false,
       "targetType": "group"

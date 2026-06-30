@@ -1,6 +1,5 @@
 {
   "displayName": "Attack surface reduction rules",
-  "@odata.type": "#microsoft.graph.securityBaselineTemplate",
   "intentCount": 1,
   "isDeprecated": false,
   "platformType": "windows10AndLater",

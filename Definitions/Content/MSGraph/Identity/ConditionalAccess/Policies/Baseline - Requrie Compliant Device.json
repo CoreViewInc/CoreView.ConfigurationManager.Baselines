@@ -1,6 +1,5 @@
 {
   "displayName": "Baseline - Requrie Compliant Device",
-  "@odata.type": "#microsoft.graph.conditionalAccessPolicy",
   "conditions": {
     "applications": {
       "excludeApplications": [],

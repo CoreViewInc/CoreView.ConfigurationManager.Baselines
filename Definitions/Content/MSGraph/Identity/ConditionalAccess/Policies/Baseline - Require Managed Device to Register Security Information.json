@@ -1,6 +1,5 @@
 {
   "displayName": "Baseline - Require Managed Device to Register Security Information",
-  "@odata.type": "#microsoft.graph.conditionalAccessPolicy",
   "conditions": {
     "applications": {
       "excludeApplications": [],

@@ -1,5 +1,4 @@
 {
-  "displayName": "temporaryAccessPass",
   "@odata.type": "#microsoft.graph.temporaryAccessPassAuthenticationMethodConfiguration",
   "defaultLength": 8,
   "defaultLifetimeInMinutes": 60,

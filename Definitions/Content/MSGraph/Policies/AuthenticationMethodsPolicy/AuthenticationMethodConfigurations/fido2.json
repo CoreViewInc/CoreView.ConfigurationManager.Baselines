@@ -1,5 +1,4 @@
 {
-  "displayName": "fido2",
   "@odata.type": "#microsoft.graph.fido2AuthenticationMethodConfiguration",
   "excludeTargets": [],
   "includeTargets": [

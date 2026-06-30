@@ -1,5 +1,4 @@
 {
-  "displayName": "Baseline - Safe Attachments Policy",
   "Action": "Block",
   "Enable": true,
   "QuarantineTag": "${urn:resource:ExchangeOnline:QuarantinePolicy/AdminOnlyAccessPolicy?Name}",

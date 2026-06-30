@@ -1,5 +1,4 @@
 {
-  "displayName": "Configuration",
   "azureADJoin": {
     "allowedToJoin": {
       "@odata.type": "#microsoft.graph.enumeratedDeviceRegistrationMembership",

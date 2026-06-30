@@ -1,5 +1,4 @@
 {
-  "displayName": "x509Certificate",
   "@odata.type": "#microsoft.graph.x509CertificateAuthenticationMethodConfiguration",
   "authenticationModeConfiguration": {
     "rules": [],

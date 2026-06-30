@@ -1,5 +1,4 @@
 {
-  "displayName": "Default Sharing Policy",
   "Default": true,
   "Domains": [
     "*:CalendarSharingFreeBusySimple",

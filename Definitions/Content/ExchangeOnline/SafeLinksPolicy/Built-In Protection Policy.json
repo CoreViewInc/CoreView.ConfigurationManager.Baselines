@@ -1,5 +1,4 @@
 {
-  "displayName": "Built-In Protection Policy",
   "AllowClickThrough": false,
   "DeliverMessageAfterScan": true,
   "DisableUrlRewrite": true,

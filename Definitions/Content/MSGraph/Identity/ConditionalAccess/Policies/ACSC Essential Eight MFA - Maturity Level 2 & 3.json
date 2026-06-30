@@ -1,7 +1,5 @@
 {
   "displayName": "ACSC Essential Eight MFA - Maturity Level 2 & 3",
-  "@odata.type": "#microsoft.graph.conditionalAccessPolicy",
-  "$name": "ACSC Essential Eight MFA - Maturity Level 2 & 3",
   "conditions": {
     "applications": {
       "excludeApplications": [],

@@ -1,5 +1,4 @@
 {
-  "displayName": "microsoftAuthenticator",
   "@odata.type": "#microsoft.graph.microsoftAuthenticatorAuthenticationMethodConfiguration",
   "excludeTargets": [],
   "featureSettings": {

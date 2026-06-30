@@ -1,5 +1,4 @@
 {
-  "displayName": "Default",
   "ActionWhenThresholdReached": "BlockUser",
   "AutoForwardingMode": "Off",
   "BccSuspiciousOutboundAdditionalRecipients": [

@@ -1,5 +1,4 @@
 {
-  "displayName": "email",
   "@odata.type": "#microsoft.graph.emailAuthenticationMethodConfiguration",
   "allowExternalIdToUseEmailOtp": "default",
   "excludeTargets": [],

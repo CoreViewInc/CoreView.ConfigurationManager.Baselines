@@ -1,5 +1,4 @@
 {
-  "displayName": "Configuration",
   "ActivityBasedAuthenticationTimeoutEnabled": true,
   "ActivityBasedAuthenticationTimeoutInterval": "06:00:00",
   "ActivityBasedAuthenticationTimeoutWithSingleSignOnEnabled": true,

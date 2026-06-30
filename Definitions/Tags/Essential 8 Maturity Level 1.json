@@ -71,12 +71,14 @@
     },
     {
       "path": "Content/MSGraph/Policies/AuthenticationMethodsPolicy/AuthenticationMethodConfigurations/microsoftAuthenticator.json",
+      "displayName": "microsoftAuthenticator",
       "description": [
         "This only meets maturity level 1, does NOT meet maturity level 2 and 3."
       ]
     },
     {
       "path": "Content/MSGraph/Policies/AuthenticationMethodsPolicy/AuthenticationMethodConfigurations/fido2.json",
+      "displayName": "fido2",
       "description": [
         "ISM 1894 Multifactor authentication used for authenticating users of data repositories is phishing-resistant",
         "ISM 1682 Multifactor authentication used for authenticating users of systems is phishing-resistant",
@@ -85,6 +87,7 @@
     },
     {
       "path": "Content/MSGraph/Policies/AuthenticationMethodsPolicy/AuthenticationMethodConfigurations/temporaryAccessPass.json",
+      "displayName": "temporaryAccessPass",
       "description": [
         "ISM 1894 Multifactor authentication used for authenticating users of data repositories is phishing-resistant",
         "ISM 1682 Multifactor authentication used for authenticating users of systems is phishing-resistant",
@@ -93,6 +96,7 @@
     },
     {
       "path": "Content/MSGraph/Policies/AuthenticationMethodsPolicy/AuthenticationMethodConfigurations/x509Certificate.json",
+      "displayName": "x509Certificate",
       "description": [
         "ISM 1894 Multifactor authentication used for authenticating users of data repositories is phishing-resistant",
         "ISM 1682 Multifactor authentication used for authenticating users of systems is phishing-resistant",
@@ -171,10 +175,13 @@
     },
     {
       "path": "Content/MSGraph/DeviceManagement/ConfigurationPolicies/Disable Internet Explorer.json",
-      "description": ["ISM 1654 Internet Explorer 11 is disabled or removed"]
+      "description": [
+        "ISM 1654 Internet Explorer 11 is disabled or removed"
+      ]
     },
     {
       "path": "Content/SecurityAndCompliance/RetentionComplianceRule/Default Retention Policy.json",
+      "displayName": "Default Retention Policy",
       "description": [
         "ISM 1511 Backups of data, applications, and settings are performed and retained in accordance with business criticality and business continuity requirements",
         "ISM 1810 Backups of data, applications, and settings are synchronized to enable restoration to a common point in time",
@@ -183,6 +190,7 @@
     },
     {
       "path": "Content/SecurityAndCompliance/RetentionComplianceRule/Teams Retention Policy.json",
+      "displayName": "Teams Retention Policy",
       "description": [
         "ISM 1511 Backups of data, applications, and settings are performed and retained in accordance with business criticality and business continuity requirements",
         "ISM 1810 Backups of data, applications, and settings are synchronized to enable restoration to a common point in time",
@@ -211,7 +219,6 @@
     },
     {
       "path": "Content/MSGraph/Policies/RoleManagementPolicies/Global Administrator.json",
-
       "description": [
         "This configuration is a dependency for other industry baseline configurations."
       ]
@@ -296,12 +303,14 @@
     },
     {
       "path": "Content/SecurityAndCompliance/RetentionCompliancePolicy/Default Retention Policy.json",
+      "displayName": "Default Retention Policy",
       "description": [
         "This configuration is a dependency for other industry baseline configurations."
       ]
     },
     {
       "path": "Content/SecurityAndCompliance/RetentionCompliancePolicy/Teams Retention Policy.json",
+      "displayName": "Teams Retention Policy",
       "description": [
         "This configuration is a dependency for other industry baseline configurations."
       ]

@@ -1,5 +1,4 @@
 {
-  "displayName": "sms",
   "@odata.type": "#microsoft.graph.smsAuthenticationMethodConfiguration",
   "excludeTargets": [],
   "includeTargets": [

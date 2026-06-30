@@ -1,5 +1,4 @@
 {
-  "displayName": "voice",
   "@odata.type": "#microsoft.graph.voiceAuthenticationMethodConfiguration",
   "excludeTargets": [],
   "includeTargets": [

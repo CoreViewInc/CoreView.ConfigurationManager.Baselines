@@ -5,21 +5,21 @@
   "tags": [
     {
       "path": "Content/AadIam/ExternalUserGuestSettings/Configuration.json",
-      "displayName": "Configuration",
+      "$displayName": "Configuration",
       "description": [
         "5.1.6.1 (L2) Ensure that collaboration invitations are sent to allowed domains only (Manual)"
       ]
     },
     {
       "path": "Content/AadIam/PasswordResetPolicies/Configuration.json",
-      "displayName": "Configuration",
+      "$displayName": "Configuration",
       "description": [
         "5.2.4.1 (L1) Ensure 'Self service password reset enabled' is set to 'All' (Manual)"
       ]
     },
     {
       "path": "Content/AadIam/UserSettings/Configuration.json",
-      "displayName": "Configuration",
+      "$displayName": "Configuration",
       "description": [
         "5.1.2.4 (L1) Ensure 'Restrict access to the Azure AD administration portal' is set to 'Yes'  (Manual)",
         "5.1.2.6 (L2) Ensure 'LinkedIn account connections' is disabled (Manual)"
@@ -27,35 +27,35 @@
     },
     {
       "path": "Content/ExchangeOnline/AdminAuditLogConfig/Configuration.json",
-      "displayName": "Configuration",
+      "$displayName": "Configuration",
       "description": [
         "3.1.1 (L1) Ensure Microsoft 365 audit log search is Enabled (Automated)"
       ]
     },
     {
       "path": "Content/ExchangeOnline/AntiPhishPolicy/Office365 AntiPhish Default.json",
-      "displayName": "Office365 AntiPhish Default",
+      "$displayName": "Office365 AntiPhish Default",
       "description": [
         "2.1.7 (L1) Ensure that an anti-phishing policy has been created (Automated)"
       ]
     },
     {
       "path": "Content/ExchangeOnline/AtpPolicyForO365/Configuration.json",
-      "displayName": "Configuration",
+      "$displayName": "Configuration",
       "description": [
         "2.1.5 (L2) Ensure Safe Attachments for SharePoint, OneDrive, and Microsoft Teams is Enabled (Automated)"
       ]
     },
     {
       "path": "Content/ExchangeOnline/ExternalInOutlook/Configuration.json",
-      "displayName": "Configuration",
+      "$displayName": "Configuration",
       "description": [
         "6.2.3 (L1) Ensure email from external senders is identified (Automated)"
       ]
     },
     {
       "path": "Content/ExchangeOnline/HostedOutboundSpamFilterPolicy/Default.json",
-      "displayName": "Default",
+      "$displayName": "Default",
       "description": [
         "2.1.6 (L1) Ensure Exchange Online Spam Policies are set to notify administrators (Automated)",
         "2.1.15 (L1) Ensure outbound anti-spam message limits are in place (Automated)",
@@ -64,7 +64,7 @@
     },
     {
       "path": "Content/ExchangeOnline/MalwareFilterPolicy/Default.json",
-      "displayName": "Default",
+      "$displayName": "Default",
       "description": [
         "2.1.2 (L1) Ensure the Common Attachment Types Filter is enabled (Automated)",
         "2.1.3 (L1) Ensure notifications for internal users sending malware is Enabled (Automated)",
@@ -73,7 +73,7 @@
     },
     {
       "path": "Content/ExchangeOnline/OrganizationConfig/Configuration.json",
-      "displayName": "Configuration",
+      "$displayName": "Configuration",
       "description": [
         "1.3.9 (L1) Ensure shared bookings paged are restricted to select users (Automated)",
         "6.1.1 (L1) Ensure 'AuditDisabled' organizationally is set to 'False' (Automated)",
@@ -84,35 +84,35 @@
     },
     {
       "path": "Content/ExchangeOnline/OwaMailboxPolicy/OwaMailboxPolicy-Default.json",
-      "displayName": "OwaMailboxPolicy-Default",
+      "$displayName": "OwaMailboxPolicy-Default",
       "description": [
         "6.5.3 (L2) Ensure additional storage providers are restricted in Outlook on the web (Automated)"
       ]
     },
     {
       "path": "Content/ExchangeOnline/SafeAttachmentPolicy/Baseline - Safe Attachments Policy.json",
-      "displayName": "Baseline - Safe Attachments Policy",
+      "$displayName": "Baseline - Safe Attachments Policy",
       "description": [
         "2.1.4 (L2) Ensure Safe Attachments policy is enabled (Automated)"
       ]
     },
     {
       "path": "Content/ExchangeOnline/SafeLinksPolicy/Built-In Protection Policy.json",
-      "displayName": "Built-In Protection Policy",
+      "$displayName": "Built-In Protection Policy",
       "description": [
         "2.1.1 (L2) Ensure Safe Links for Office Applications is Enabled (Automated)"
       ]
     },
     {
       "path": "Content/ExchangeOnline/SharingPolicy/Default Sharing Policy.json",
-      "displayName": "Default Sharing Policy",
+      "$displayName": "Default Sharing Policy",
       "description": [
         "1.3.3 (L2) Ensure 'External sharing' of calendars is not available (Automated)"
       ]
     },
     {
       "path": "Content/MSGraph/Admin/Sharepoint/Settings/Configuration.json",
-      "displayName": "Configuration",
+      "$displayName": "Configuration",
       "description": [
         "7.2.1 (L1) Ensure modern authentication for SharePoint applications is required (Automated)",
         "7.2.3 (L1) Ensure external content sharing is restricted (Automated)",
@@ -220,7 +220,7 @@
     },
     {
       "path": "Content/MSGraph/Policies/AuthenticationMethodsPolicy/AuthenticationMethodConfigurations/microsoftAuthenticator.json",
-      "displayName": "microsoftAuthenticator",
+      "$displayName": "microsoftAuthenticator",
       "description": [
         "5.2.3.1 (L1) Ensure Microsoft Authenticator is configured to protect against MFA fatigue (Manual)",
         "5.2.3.6 (L1) Ensure system-preferred multifactor authentication is enabled (Manual)"
@@ -262,49 +262,49 @@
     },
     {
       "path": "Content/O365Portal/Settings/Apps/OfficeForms/Configuration.json",
-      "displayName": "Configuration",
+      "$displayName": "Configuration",
       "description": [
         "1.3.5 (L1) Ensure internal phishing protection for Forms is enabled (Manual)"
       ]
     },
     {
       "path": "Content/O365Portal/Settings/Security/ActivityBasedTimeout/Configuration.json",
-      "displayName": "Configuration",
+      "$displayName": "Configuration",
       "description": [
         "1.3.2 (L2) Ensure 'Idle session timeout' is set to '3 hours (or less)' for unmanaged devices (Manual)"
       ]
     },
     {
       "path": "Content/O365Portal/Settings/UserOwnedAppAndServices/AccessOfficeStore/Configuration.json",
-      "displayName": "Configuration",
+      "$displayName": "Configuration",
       "description": [
         "1.3.4 (L1) Ensure 'User owned apps and services' is restricted"
       ]
     },
     {
       "path": "Content/O365Portal/Settings/UserOwnedAppAndServices/StartTrialOnBehalfOrg/Configuration.json",
-      "displayName": "Configuration",
+      "$displayName": "Configuration",
       "description": [
         "1.3.4 (L1) Ensure 'User owned apps and services' is restricted"
       ]
     },
     {
       "path": "Content/SecurityAndCompliance/DlpCompliancePolicy/Baseline - Default DLP Policy for Office 365.json",
-      "displayName": "Baseline - Default DLP Policy for Office 365",
+      "$displayName": "Baseline - Default DLP Policy for Office 365",
       "description": [
         "3.2.1 (L1) Ensure DLP policies are enabled (Manual)"
       ]
     },
     {
       "path": "Content/SecurityAndCompliance/DlpCompliancePolicy/Baseline - Default DLP Policy for Teams.json",
-      "displayName": "Baseline - Default DLP Policy for Teams",
+      "$displayName": "Baseline - Default DLP Policy for Teams",
       "description": [
         "3.2.2 (L1) Ensure DLP policies are enabled for Microsoft Teams (Manual)"
       ]
     },
     {
       "path": "Content/SharePoint/TenantProperties/Configuration.json",
-      "displayName": "Configuration",
+      "$displayName": "Configuration",
       "description": [
         "7.2.2 (L1) Ensure SharePoint and OneDrive integration with Azure AD B2B is enabled (Automated)",
         "7.2.4 (L2) Ensure OneDrive content sharing is restricted (Automated)",
@@ -317,7 +317,7 @@
     },
     {
       "path": "Content/Teams/CsTeamsClientConfiguration/Global.json",
-      "displayName": "Global",
+      "$displayName": "Global",
       "description": [
         "8.1.1 (L2) Ensure external file sharing in Teams is enabled for only approved cloud storage services (Automated)",
         "8.1.2 (L1) Ensure users can't send emails to a channel email address (Automated)"
@@ -325,7 +325,7 @@
     },
     {
       "path": "Content/Teams/CsTeamsMeetingPolicy/Global.json",
-      "displayName": "Global",
+      "$displayName": "Global",
       "description": [
         "8.5.1 (L2) Ensure anonymous users can't join a meeting (Automated)",
         "8.5.2 (L1) Ensure anonymous users and dial-in callers can't start a meeting (Automated)",
@@ -339,14 +339,14 @@
     },
     {
       "path": "Content/Teams/CsTeamsMessagingPolicy/Global.json",
-      "displayName": "Global",
+      "$displayName": "Global",
       "description": [
         "8.6.1 (L1) Ensure users can report security concerns in Teams (Automated)"
       ]
     },
     {
       "path": "Content/Teams/CsTenantFederationConfiguration/Global.json",
-      "displayName": "Global",
+      "$displayName": "Global",
       "description": [
         "8.2.1 (L1) Ensure 'external access' is restricted in the Teams admin center (Automated)",
         "8.2.4 (L1) Ensure the organization cannot communicate with accounts in trial Teams tenants (Automated)"
@@ -354,28 +354,28 @@
     },
     {
       "path": "Content/AzureManagement/Providers/Microsoft/CustomerLockbox/Configuration.json",
-      "displayName": "Configuration",
+      "$displayName": "Configuration",
       "description": [
         "1.3.6 (L2) Ensure the customer lockbox feature is enabled (Automated)"
       ]
     },
     {
       "path": "Content/ExchangeOnline/MalwareFilterPolicy/CIS L2 Attachment Policy.json",
-      "displayName": "CIS L2 Attachment Policy",
+      "$displayName": "CIS L2 Attachment Policy",
       "description": [
         "2.1.11 (L2) Ensure comprehensive attachment filtering is applied (Automated)"
       ]
     },
     {
       "path": "Content/ExchangeOnline/MalwareFilterRule/CIS L2 Attachment Policy.json",
-      "displayName": "CIS L2 Attachment Policy",
+      "$displayName": "CIS L2 Attachment Policy",
       "description": [
         "2.1.11 (L2) Ensure comprehensive attachment filtering is applied (Automated)"
       ]
     },
     {
       "path": "Content/ExchangeOnline/HostedConnectionFilterPolicy/Default.json",
-      "displayName": "Default",
+      "$displayName": "Default",
       "description": [
         "2.1.12 (L1) Ensure the connection filter IP allow list is not used (Automated)",
         "2.1.13 (L1) Ensure the connection filter IP allow list is not used (Automated)"
@@ -383,21 +383,21 @@
     },
     {
       "path": "Content/ExchangeOnline/EmailTenantSettings/Configuration.json",
-      "displayName": "Configuration",
+      "$displayName": "Configuration",
       "description": [
         "2.4.1 (L1) Ensure Priority account protection is enabled and configured (Automated)"
       ]
     },
     {
       "path": "Content/SecurityAndCompliance/Label/Confidential Data--.json",
-      "displayName": "Confidential Data",
+      "$displayName": "Confidential Data",
       "description": [
         "3.3.1 (L1) Ensure Information Protection sensitivity label policies are published (Manual)"
       ]
     },
     {
       "path": "Content/SecurityAndCompliance/Label/Highly Confidential Data--.json",
-      "displayName": "Highly Confidential Data",
+      "$displayName": "Highly Confidential Data",
       "description": [
         "3.3.1 (L1) Ensure Information Protection sensitivity label policies are published (Manual)"
       ]
@@ -441,21 +441,21 @@
     },
     {
       "path": "Content/MSGraph/Policies/AuthenticationMethodsPolicy/AuthenticationMethodConfigurations/email.json",
-      "displayName": "email",
+      "$displayName": "email",
       "description": [
         "5.2.3.7 (L2) Ensure the email OTP authentication method is disabled (Automated)"
       ]
     },
     {
       "path": "Content/MSGraph/Policies/AuthenticationMethodsPolicy/AuthenticationMethodConfigurations/sms.json",
-      "displayName": "sms",
+      "$displayName": "sms",
       "description": [
         "5.2.3.5 (L1) Ensure weak authentication methods are disabled (Automated)"
       ]
     },
     {
       "path": "Content/MSGraph/Policies/AuthenticationMethodsPolicy/AuthenticationMethodConfigurations/voice.json",
-      "displayName": "voice",
+      "$displayName": "voice",
       "description": [
         "5.2.3.5 (L1) Ensure weak authentication methods are disabled (Automated)"
       ]
@@ -474,21 +474,21 @@
     },
     {
       "path": "Content/SharePoint/TenantProperties/Configuration.json",
-      "displayName": "Configuration",
+      "$displayName": "Configuration",
       "description": [
         "7.2.11 (L1) Ensure the SharePoint default sharing link permission is set (Automated)"
       ]
     },
     {
       "path": "Content/Teams/CsTeamsMeetingPolicy/Global.json",
-      "displayName": "Global",
+      "$displayName": "Global",
       "description": [
         "8.5.9 (L2) Ensure meeting recording is off by default (Automated)"
       ]
     },
     {
       "path": "Content/Teams/CsTenantFederationConfiguration/Global.json",
-      "displayName": "Global",
+      "$displayName": "Global",
       "description": [
         "8.2.2 (L1) Ensure communication with unmanaged Teams users is disabled (Automated)",
         "8.2.3 (L1) Ensure external Teams users cannot initiate conversations (Automated)"
@@ -513,7 +513,7 @@
     },
     {
       "path": "Content/ExchangeOnline/QuarantinePolicy/DefaultFullAccessPolicy.json",
-      "displayName": "DefaultFullAccessPolicy",
+      "$displayName": "DefaultFullAccessPolicy",
       "description": [
         "This configuration is a dependency for other industry baseline configurations."
       ]
@@ -526,7 +526,7 @@
     },
     {
       "path": "Content/ExchangeOnline/QuarantinePolicy/AdminOnlyAccessPolicy.json",
-      "displayName": "AdminOnlyAccessPolicy",
+      "$displayName": "AdminOnlyAccessPolicy",
       "description": [
         "This configuration is a dependency for other industry baseline configurations."
       ]

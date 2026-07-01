@@ -1,5 +1,6 @@
 {
   "ESNEnabled": false,
   "EndUserQuarantinePermissionsValue": 0,
-  "IncludeMessagesFromBlockedSenderAddress": false
+  "IncludeMessagesFromBlockedSenderAddress": false,
+  "Name": "AdminOnlyAccessPolicy"
 }

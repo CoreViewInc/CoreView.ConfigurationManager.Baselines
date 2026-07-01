@@ -1,4 +1,5 @@
 {
+  "Identity": "Global",
   "AllowChatWithGroup": true,
   "AllowCommunicationComplianceEndUserReporting": true,
   "AllowCustomGroupChatAvatars": true,

@@ -1,5 +1,5 @@
 {
-  "displayName": "Default Retention Policy",
+  "Name": "Default Retention Policy",
   "AdaptiveScopeLocation": [],
   "Applications": [],
   "Enabled": true,

@@ -1,6 +1,5 @@
 {
   "displayName": "Baseline - Require MFA to Enroll Device",
-  "@odata.type": "#microsoft.graph.conditionalAccessPolicy",
   "conditions": {
     "applications": {
       "excludeApplications": [],

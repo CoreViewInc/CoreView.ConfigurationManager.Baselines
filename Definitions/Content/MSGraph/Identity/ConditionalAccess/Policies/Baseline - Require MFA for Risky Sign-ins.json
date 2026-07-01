@@ -1,6 +1,5 @@
 {
   "displayName": "Baseline - Require MFA for Risky Sign-ins",
-  "@odata.type": "#microsoft.graph.conditionalAccessPolicy",
   "conditions": {
     "applications": {
       "excludeApplications": [],

@@ -1,10 +1,8 @@
 {
-  "displayName": "sms",
-  "@odata.type": "#microsoft.graph.smsAuthenticationMethodConfiguration",
+  "id": "sms",
   "excludeTargets": [],
   "includeTargets": [
     {
-      "@odata.type": "#microsoft.graph.authenticationMethodTarget",
       "id": "all_users",
       "isRegistrationRequired": false,
       "targetType": "group"

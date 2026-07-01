@@ -1,5 +1,5 @@
 {
-  "displayName": "Default Retention Policy",
+  "Name": "Default Retention Policy",
   "ExcludedItemClasses": [],
   "MachineLearningModelIDs": [],
   "Policy": "${urn:resource:SecurityAndCompliance:RetentionCompliancePolicy/Default Retention Policy?Guid}",

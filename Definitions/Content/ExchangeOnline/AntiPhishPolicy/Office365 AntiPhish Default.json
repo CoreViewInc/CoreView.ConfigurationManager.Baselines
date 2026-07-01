@@ -1,5 +1,4 @@
 {
-  "displayName": "Office365 AntiPhish Default",
   "AuthenticationFailAction": "MoveToJmf",
   "DmarcQuarantineAction": "Quarantine",
   "DmarcRejectAction": "Reject",

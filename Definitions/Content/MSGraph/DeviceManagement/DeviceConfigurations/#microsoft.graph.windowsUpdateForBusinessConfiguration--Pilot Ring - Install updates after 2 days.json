@@ -1,7 +1,6 @@
 {
   "displayName": "Pilot Ring - Install updates after 2 days",
   "@odata.type": "#microsoft.graph.windowsUpdateForBusinessConfiguration",
-  "$name": "#microsoft.graph.windowsUpdateForBusinessConfiguration--Pilot Ring - Install updates after 2 days",
   "allowWindows11Upgrade": false,
   "automaticUpdateMode": "autoInstallAtMaintenanceTime",
   "autoRestartNotificationDismissal": "notConfigured",

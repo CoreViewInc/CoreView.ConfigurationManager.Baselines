@@ -1,5 +1,5 @@
 {
-  "displayName": "Baseline - Default DLP Policy for Teams",
+  "Name": "Baseline - Default DLP Policy for Teams",
   "EndpointDlpLocation": [],
   "EndpointDlpLocationException": [],
   "ExceptIfOneDriveSharedBy": [],

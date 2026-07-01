@@ -12,22 +12,18 @@
     }
   ],
   "scope": {
-    "@odata.type": "#microsoft.graph.principalResourceMembershipsScope",
     "principalScopes": [
       {
-        "@odata.type": "#microsoft.graph.accessReviewQueryScope",
         "query": "/v1.0/groups",
         "queryType": "MicrosoftGraph"
       },
       {
-        "@odata.type": "#microsoft.graph.accessReviewQueryScope",
         "query": "/v1.0/users",
         "queryType": "MicrosoftGraph"
       }
     ],
     "resourceScopes": [
       {
-        "@odata.type": "#microsoft.graph.accessReviewQueryScope",
         "query": "/beta/roleManagement/directory/roleDefinitions/${urn:resource:MSGraph:RoleManagement:Directory:RoleDefinitions/Global Administrator?id}",
         "queryType": "MicrosoftGraph"
       }
@@ -35,9 +31,7 @@
   },
   "settings": {
     "applyActions": [
-      {
-        "@odata.type": "#microsoft.graph.removeAccessApplyAction"
-      }
+      {}
     ],
     "autoApplyDecisionsEnabled": true,
     "decisionHistoriesForReviewersEnabled": false,
@@ -48,7 +42,6 @@
     "mailNotificationsEnabled": true,
     "recommendationInsightSettings": [
       {
-        "@odata.type": "#microsoft.graph.userLastSignInRecommendationInsightSetting",
         "recommendationLookBackDuration": "P30D",
         "signInScope": "tenant"
       }

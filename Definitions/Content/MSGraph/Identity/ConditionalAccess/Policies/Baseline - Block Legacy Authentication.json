@@ -1,6 +1,5 @@
 {
   "displayName": "Baseline - Block Legacy Authentication",
-  "@odata.type": "#microsoft.graph.conditionalAccessPolicy",
   "conditions": {
     "applications": {
       "excludeApplications": [],

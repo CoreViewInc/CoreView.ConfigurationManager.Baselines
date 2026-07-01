@@ -1,7 +1,6 @@
 {
   "displayName": "Critical Ring - Install updates after 10 days",
   "@odata.type": "#microsoft.graph.windowsUpdateForBusinessConfiguration",
-  "$name": "#microsoft.graph.windowsUpdateForBusinessConfiguration--Critical Ring - Install updates after 10 days",
   "allowWindows11Upgrade": false,
   "automaticUpdateMode": "autoInstallAtMaintenanceTime",
   "autoRestartNotificationDismissal": "notConfigured",

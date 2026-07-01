@@ -1,7 +1,6 @@
 {
   "displayName": "Intune Administrator--Approval_EndUser_Assignment",
   "@odata.type": "#microsoft.graph.unifiedRoleManagementPolicyApprovalRule",
-  "$name": "#microsoft.graph.unifiedRoleManagementPolicyApprovalRule--${urn:resource:MSGraph:Policies:RoleManagementPolicies/Intune Administrator?id}--Approval_EndUser_Assignment",
   "id": "Approval_EndUser_Assignment",
   "setting": {
     "approvalMode": "SingleStage",

@@ -4,7 +4,6 @@
   "assignments": [
     {
       "target": {
-        "@odata.type": "#microsoft.graph.groupAssignmentTarget",
         "deviceAndAppManagementAssignmentFilterType": "none",
         "groupId": "${urn:resource:MSGraph:Groups/Corporate Devices?id}"
       }

@@ -1,5 +1,5 @@
 {
-  "displayName": "Global",
+  "Identity": "Global",
   "AllowChatWithGroup": true,
   "AllowCommunicationComplianceEndUserReporting": true,
   "AllowCustomGroupChatAvatars": true,

@@ -1,7 +1,6 @@
 {
   "displayName": "User Administrator--Expiration_Admin_Assignment",
   "@odata.type": "#microsoft.graph.unifiedRoleManagementPolicyExpirationRule",
-  "$name": "#microsoft.graph.unifiedRoleManagementPolicyExpirationRule--${urn:resource:MSGraph:Policies:RoleManagementPolicies/User Administrator?id}--Expiration_Admin_Assignment",
   "id": "Expiration_Admin_Assignment",
   "isExpirationRequired": true,
   "maximumDuration": "P365D",

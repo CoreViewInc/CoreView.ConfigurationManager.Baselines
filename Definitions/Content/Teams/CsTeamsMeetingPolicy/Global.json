@@ -1,5 +1,5 @@
 {
-  "displayName": "Global",
+  "Identity": "Global",
   "AllowAnonymousUsersToDialOut": false,
   "AllowAnonymousUsersToJoinMeeting": false,
   "AllowAnonymousUsersToStartMeeting": false,

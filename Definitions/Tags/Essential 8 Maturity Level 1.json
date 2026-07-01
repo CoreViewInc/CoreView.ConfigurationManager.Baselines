@@ -117,6 +117,7 @@
     },
     {
       "path": "Content/MSGraph/Policies/RoleManagementPolicies/Rules/#microsoft.graph.unifiedRoleManagementPolicyApprovalRule--${urn%3Aresource%3AMSGraph%3APolicies%3ARoleManagementPolicies%2FGlobal Administrator%3Fid}--Approval_EndUser_Assignment.json",
+      "$friendlyNameOverride": "Global Administrator - Approval_EndUser_Assignment",
       "description": [
         "Consider adding role management settings for additional roles commonly used in the org.",
         "ISM 1507 Requests for privileged access to systems, applications, and data repositories are validated when first requested",
@@ -171,7 +172,9 @@
     },
     {
       "path": "Content/MSGraph/DeviceManagement/ConfigurationPolicies/Disable Internet Explorer.json",
-      "description": ["ISM 1654 Internet Explorer 11 is disabled or removed"]
+      "description": [
+        "ISM 1654 Internet Explorer 11 is disabled or removed"
+      ]
     },
     {
       "path": "Content/SecurityAndCompliance/RetentionComplianceRule/Default Retention Policy.json",
@@ -211,7 +214,6 @@
     },
     {
       "path": "Content/MSGraph/Policies/RoleManagementPolicies/Global Administrator.json",
-
       "description": [
         "This configuration is a dependency for other industry baseline configurations."
       ]

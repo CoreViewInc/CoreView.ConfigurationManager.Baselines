@@ -270,7 +270,9 @@
     },
     {
       "path": "Content/SecurityAndCompliance/DlpCompliancePolicy/Baseline - Default DLP Policy for Office 365.json",
-      "description": ["3.2.1 (L1) Ensure DLP policies are enabled (Manual)"]
+      "description": [
+        "3.2.1 (L1) Ensure DLP policies are enabled (Manual)"
+      ]
     },
     {
       "path": "Content/SecurityAndCompliance/DlpCompliancePolicy/Baseline - Default DLP Policy for Teams.json",
@@ -423,12 +425,14 @@
     },
     {
       "path": "Content/MSGraph/Policies/RoleManagementPolicies/Rules/#microsoft.graph.unifiedRoleManagementPolicyApprovalRule--${urn%3Aresource%3AMSGraph%3APolicies%3ARoleManagementPolicies%2FGlobal Administrator%3Fid}--Approval_EndUser_Assignment.json",
+      "$friendlyNameOverride": "Global Administrator - Approval_EndUser_Assignment",
       "description": [
         "5.3.4 (L1) Ensure approval is required for Global Administrator role activation (Automated)"
       ]
     },
     {
       "path": "Content/MSGraph/Policies/RoleManagementPolicies/Rules/#microsoft.graph.unifiedRoleManagementPolicyApprovalRule--${urn%3Aresource%3AMSGraph%3APolicies%3ARoleManagementPolicies%2FPrivileged Role Administrator%3Fid}--Approval_EndUser_Assignment.json",
+      "$friendlyNameOverride": "Privileged Role Administrator - Approval_EndUser_Assignment",
       "description": [
         "5.3.5 (L1) Ensure approval is required for Privileged Role Administrator activation (Automated)"
       ]

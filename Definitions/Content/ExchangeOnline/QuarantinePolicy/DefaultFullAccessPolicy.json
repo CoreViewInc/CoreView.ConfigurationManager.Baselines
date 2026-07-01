@@ -1,5 +1,4 @@
 {
-  "displayName": "DefaultFullAccessPolicy",
   "ESNEnabled": false,
   "EndUserQuarantinePermissionsValue": 103,
   "IncludeMessagesFromBlockedSenderAddress": false

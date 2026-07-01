@@ -1,10 +1,8 @@
 {
-  "displayName": "voice",
-  "@odata.type": "#microsoft.graph.voiceAuthenticationMethodConfiguration",
+  "id": "voice",
   "excludeTargets": [],
   "includeTargets": [
     {
-      "@odata.type": "#microsoft.graph.authenticationMethodTarget",
       "id": "all_users",
       "isRegistrationRequired": false,
       "targetType": "group"

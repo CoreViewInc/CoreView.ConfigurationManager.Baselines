@@ -1,7 +1,6 @@
 {
   "displayName": "Identity Governance Administrator--AuthenticationContext_EndUser_Assignment",
   "@odata.type": "#microsoft.graph.unifiedRoleManagementPolicyAuthenticationContextRule",
-  "$name": "#microsoft.graph.unifiedRoleManagementPolicyAuthenticationContextRule--${urn:resource:MSGraph:Policies:RoleManagementPolicies/Identity Governance Administrator?id}--AuthenticationContext_EndUser_Assignment",
   "claimValue": "",
   "id": "AuthenticationContext_EndUser_Assignment",
   "isEnabled": false,

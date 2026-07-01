@@ -1,7 +1,6 @@
 {
   "displayName": "Privileged Role Administrator--Enablement_Admin_Assignment",
   "@odata.type": "#microsoft.graph.unifiedRoleManagementPolicyEnablementRule",
-  "$name": "#microsoft.graph.unifiedRoleManagementPolicyEnablementRule--${urn:resource:MSGraph:Policies:RoleManagementPolicies/Privileged Role Administrator?id}--Enablement_Admin_Assignment",
   "enabledRules": [
     "Justification"
   ],

@@ -1,5 +1,5 @@
 {
-  "displayName": "Teams Retention Policy",
+  "Name": "Teams Retention Policy",
   "AdaptiveScopeLocation": [],
   "Applications": [],
   "Enabled": true,

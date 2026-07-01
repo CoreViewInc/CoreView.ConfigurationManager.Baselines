@@ -1,7 +1,6 @@
 {
   "displayName": "Security Administrator--Notification_Admin_Admin_Eligibility",
   "@odata.type": "#microsoft.graph.unifiedRoleManagementPolicyNotificationRule",
-  "$name": "#microsoft.graph.unifiedRoleManagementPolicyNotificationRule--${urn:resource:MSGraph:Policies:RoleManagementPolicies/Security Administrator?id}--Notification_Admin_Admin_Eligibility",
   "id": "Notification_Admin_Admin_Eligibility",
   "isDefaultRecipientsEnabled": true,
   "notificationLevel": "All",

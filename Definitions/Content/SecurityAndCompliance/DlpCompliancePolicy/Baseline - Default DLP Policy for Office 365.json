@@ -1,5 +1,5 @@
 {
-  "displayName": "Baseline - Default DLP Policy for Office 365",
+  "Name": "Baseline - Default DLP Policy for Office 365",
   "EndpointDlpLocation": [],
   "EndpointDlpLocationException": [],
   "ExceptIfOneDriveSharedBy": [],

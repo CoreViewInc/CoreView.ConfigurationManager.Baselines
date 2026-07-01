@@ -1,5 +1,5 @@
 {
-  "displayName": "Teams Retention Policy",
+  "Name": "Teams Retention Policy",
   "ExcludedItemClasses": [],
   "ExpirationDateOption": "CreationAgeInDays",
   "MachineLearningModelIDs": [],

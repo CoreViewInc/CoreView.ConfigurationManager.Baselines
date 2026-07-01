@@ -1,7 +1,6 @@
 {
   "displayName": "Broad Ring - Install updates after 7 days",
   "@odata.type": "#microsoft.graph.windowsUpdateForBusinessConfiguration",
-  "$name": "#microsoft.graph.windowsUpdateForBusinessConfiguration--Broad Ring - Install updates after 7 days",
   "allowWindows11Upgrade": false,
   "automaticUpdateMode": "autoInstallAtMaintenanceTime",
   "autoRestartNotificationDismissal": "notConfigured",

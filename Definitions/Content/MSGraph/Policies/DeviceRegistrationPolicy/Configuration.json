@@ -1,8 +1,6 @@
 {
-  "displayName": "Configuration",
   "azureADJoin": {
     "allowedToJoin": {
-      "@odata.type": "#microsoft.graph.enumeratedDeviceRegistrationMembership",
       "groups": [
         "${urn:resource:MSGraph:Groups/Baseline - Device Enrollers?id}"
       ],
@@ -12,7 +10,6 @@
     "localAdmins": {
       "enableGlobalAdmins": false,
       "registeringUsers": {
-        "@odata.type": "#microsoft.graph.enumeratedDeviceRegistrationMembership",
         "groups": [
           "${urn:resource:MSGraph:Groups/Baseline - Device Enrollers?id}"
         ],
@@ -21,9 +18,7 @@
     }
   },
   "azureADRegistration": {
-    "allowedToRegister": {
-      "@odata.type": "#microsoft.graph.allDeviceRegistrationMembership"
-    },
+    "allowedToRegister": {},
     "isAdminConfigurable": false
   },
   "localAdminPassword": {

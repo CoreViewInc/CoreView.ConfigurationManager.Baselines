@@ -1,5 +1,5 @@
 {
-  "Name": "M1 - ACSC Office Hardening Guidelines Level 1",
+  "name": "M1 - ACSC Office Hardening Guidelines Level 1",
   "displayName": "M1 - ACSC Office Hardening Guidelines Level 1",
   "@odata.type": "#microsoft.graph.deviceManagementConfigurationPolicy",
   "assignments": [],

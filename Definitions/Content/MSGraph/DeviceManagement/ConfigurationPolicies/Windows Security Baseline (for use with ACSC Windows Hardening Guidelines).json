@@ -1,4 +1,5 @@
 {
+  "Name": "Windows Security Baseline (for use with ACSC Windows Hardening Guidelines)",
   "displayName": "Windows Security Baseline (for use with ACSC Windows Hardening Guidelines)",
   "assignments": [],
   "description": "",

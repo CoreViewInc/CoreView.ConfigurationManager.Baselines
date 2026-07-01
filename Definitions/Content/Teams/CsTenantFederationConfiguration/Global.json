@@ -1,4 +1,5 @@
 {
+  "Identity": "Global",
   "AllowFederatedUsers": false,
   "AllowPublicUsers": false,
   "AllowTeamsConsumer": false,

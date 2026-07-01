@@ -5,7 +5,6 @@
   "tags": [
     {
       "path": "Content/AadIam/ExternalUserGuestSettings/Configuration.json",
-      "$friendlyNameOverride": "Test Override Friendly Name",
       "description": [
         "5.1.6.1 (L2) Ensure that collaboration invitations are sent to allowed domains only (Manual)"
       ]

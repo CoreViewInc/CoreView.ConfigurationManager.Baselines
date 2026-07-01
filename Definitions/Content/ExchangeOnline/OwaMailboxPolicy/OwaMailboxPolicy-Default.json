@@ -1,4 +1,5 @@
 {
+  "Identity": "OwaMailboxPolicy-Default",
   "ActionForUnknownFileAndMIMETypes": "Allow",
   "ActiveSyncIntegrationEnabled": true,
   "AdditionalStorageProvidersAvailable": false,

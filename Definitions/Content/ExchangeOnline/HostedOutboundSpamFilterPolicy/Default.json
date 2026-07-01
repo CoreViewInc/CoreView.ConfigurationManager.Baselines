@@ -1,4 +1,5 @@
 {
+  "Identity": "Default",
   "ActionWhenThresholdReached": "BlockUser",
   "AutoForwardingMode": "Off",
   "BccSuspiciousOutboundAdditionalRecipients": [

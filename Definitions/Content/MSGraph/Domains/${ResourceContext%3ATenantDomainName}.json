@@ -1,5 +1,5 @@
 {
-  "Id": "${ResourceContext:TenantDomainName}",
+  "id": "${ResourceContext:TenantDomainName}",
   "authenticationType": "Managed",
   "isAdminManaged": true,
   "isDefault": true,

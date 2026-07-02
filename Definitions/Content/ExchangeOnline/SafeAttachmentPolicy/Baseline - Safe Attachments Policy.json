@@ -2,5 +2,6 @@
   "Action": "Block",
   "Enable": true,
   "QuarantineTag": "${urn:resource:ExchangeOnline:QuarantinePolicy/AdminOnlyAccessPolicy?Name}",
-  "Redirect": false
+  "Redirect": false,
+  "Identity": "Baseline - Safe Attachments Policy"
 }

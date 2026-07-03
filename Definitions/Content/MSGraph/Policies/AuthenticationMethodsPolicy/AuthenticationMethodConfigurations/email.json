@@ -1,5 +1,5 @@
 {
-  "id": "email",
+  "id": "Email",
   "allowExternalIdToUseEmailOtp": "default",
   "excludeTargets": [],
   "includeTargets": [

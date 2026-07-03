@@ -234,12 +234,14 @@
     },
     {
       "path": "Content/MSGraph/Users/break-glass@${ResourceContext%3ATenantDomainName}.json",
+      "$friendlyNameOverride": "Break Glass Account",
       "description": [
         "1.1.2 (L1) Ensure two emergency access accounts have been defined (Manual)"
       ]
     },
     {
       "path": "Content/MSGraph/Users/emergency-access@${ResourceContext%3ATenantDomainName}.json",
+      "$friendlyNameOverride": "Emergency Access Account",
       "description": [
         "1.1.2 (L1) Ensure two emergency access accounts have been defined (Manual)"
       ]
@@ -589,6 +591,7 @@
     },
     {
       "path": "Content/MSGraph/Users/admin@${ResourceContext%3ATenantDomainName}.json",
+      "$friendlyNameOverride": "Admin User",
       "description": [
         "This configuration is a dependency for other industry baseline configurations."
       ]

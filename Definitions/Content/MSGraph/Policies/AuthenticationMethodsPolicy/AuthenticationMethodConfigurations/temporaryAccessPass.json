@@ -1,5 +1,5 @@
 {
-  "id": "temporaryAccessPass",
+  "id": "TemporaryAccessPass",
   "defaultLength": 8,
   "defaultLifetimeInMinutes": 60,
   "excludeTargets": [],

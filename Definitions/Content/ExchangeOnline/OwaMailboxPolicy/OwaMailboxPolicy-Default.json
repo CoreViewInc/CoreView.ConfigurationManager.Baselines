@@ -258,7 +258,7 @@
   "OutlookNewslettersAccessLevel": "Undefined",
   "OutlookNewslettersReactions": "Undefined",
   "OutlookNewslettersShowMore": "Undefined",
-  "PersonalAccountCalendarsEnabled": true,
+  "PersonalAccountCalendarsEnabled": false,
   "PhoneticSupportEnabled": false,
   "PlacesEnabled": true,
   "PremiumClientEnabled": true,

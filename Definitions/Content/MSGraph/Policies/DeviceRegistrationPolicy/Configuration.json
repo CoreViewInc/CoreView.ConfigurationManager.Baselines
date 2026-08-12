@@ -25,5 +25,5 @@
     "isEnabled": true
   },
   "multiFactorAuthConfiguration": "notRequired",
-  "userDeviceQuota": 20
+  "userDeviceQuota": 10
 }

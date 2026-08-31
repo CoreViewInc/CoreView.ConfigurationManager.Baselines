@@ -19,18 +19,20 @@
   "HonorDmarcPolicy": true,
   "ImpersonationProtectionState": "Manual",
   "IsDefault": true,
-  "MailboxIntelligenceProtectionAction": "NoAction",
+  "MailboxIntelligenceProtectionAction": "Quarantine",
   "MailboxIntelligenceProtectionActionRecipients": [],
   "MailboxIntelligenceQuarantineTag": "${urn:resource:ExchangeOnline:QuarantinePolicy/DefaultFullAccessPolicy?Name}",
   "PhishThresholdLevel": 3,
   "SpoofQuarantineTag": "${urn:resource:ExchangeOnline:QuarantinePolicy/DefaultFullAccessPolicy?Name}",
   "TargetedDomainActionRecipients": [],
-  "TargetedDomainProtectionAction": ["NoAction"],
+  "TargetedDomainProtectionAction": "Quarantine",
   "TargetedDomainQuarantineTag": "${urn:resource:ExchangeOnline:QuarantinePolicy/DefaultFullAccessPolicy?Name}",
   "TargetedDomainsToProtect": [],
   "TargetedUserActionRecipients": [],
-  "TargetedUserProtectionAction": ["NoAction"],
+  "TargetedUserProtectionAction": "Quarantine",
   "TargetedUserQuarantineTag": "${urn:resource:ExchangeOnline:QuarantinePolicy/DefaultFullAccessPolicy?Name}",
-  "TargetedUsersToProtect": [],
+  "TargetedUsersToProtect": [
+    "MOD Administrator;admin@${ResourceContext:TenantDomainName}"
+  ],
   "Identity": "Office365 AntiPhish Default"
 }

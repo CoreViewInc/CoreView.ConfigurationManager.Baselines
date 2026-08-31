@@ -1,4 +1,5 @@
 {
   "IPAllowList": [],
-  "IPBlockList": []
+  "IPBlockList": [],
+  "EnableSafeList": false
 }

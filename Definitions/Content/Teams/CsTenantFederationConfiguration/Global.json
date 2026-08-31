@@ -3,7 +3,7 @@
   "AllowFederatedUsers": false,
   "AllowPublicUsers": false,
   "AllowTeamsConsumer": false,
-  "AllowTeamsConsumerInbound": true,
+  "AllowTeamsConsumerInbound": false,
   "BlockAllSubdomains": false,
   "BlockedDomains": [],
   "ExternalAccessWithTrialTenants": "Blocked",

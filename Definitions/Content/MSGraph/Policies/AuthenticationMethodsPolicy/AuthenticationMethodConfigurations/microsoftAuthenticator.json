@@ -2,16 +2,7 @@
   "id": "MicrosoftAuthenticator",
   "excludeTargets": [],
   "featureSettings": {
-    "companionAppAllowedState": {
-      "excludeTarget": {
-        "id": "00000000-0000-0000-0000-000000000000",
-        "targetType": "group"
-      },
-      "includeTarget": {
-        "id": "all_users",
-        "targetType": "group"
-      },
-      "state": "default"
+      "state": "disabled"
     },
     "displayAppInformationRequiredState": {
       "excludeTarget": {

@@ -259,6 +259,7 @@
   "OutlookNewslettersReactions": "Undefined",
   "OutlookNewslettersShowMore": "Undefined",
   "PersonalAccountCalendarsEnabled": false,
+  "PersonalAccountsEnabled": false,
   "PhoneticSupportEnabled": false,
   "PlacesEnabled": true,
   "PremiumClientEnabled": true,

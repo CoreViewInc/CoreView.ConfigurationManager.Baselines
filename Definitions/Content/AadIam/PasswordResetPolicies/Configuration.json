@@ -6,7 +6,7 @@
   "mobileAppCodeEnabled": true,
   "mobileAppNotificationEnabled": false,
   "mobilePhoneOptionEnabled": true,
-  "notifyOnAdminPasswordReset": false,
+  "notifyOnAdminPasswordReset": true,
   "notifyUsersOnPasswordReset": true,
   "numberOfAuthenticationMethodsRequired": 2,
   "numberOfQuestionsToRegister": 5,

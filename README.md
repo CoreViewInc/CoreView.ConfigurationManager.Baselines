@@ -143,7 +143,7 @@ The logical identifier of the resource is always determined by the content file 
 
 | File | Framework |
 |---|---|
-| `CIS M365 Foundations 6.0.1.json` | CIS Microsoft 365 Foundations Benchmark v6.0.1 |
+| `CIS M365 Foundations 7.0.0.json` | CIS Microsoft 365 Foundations Benchmark v7.0.0 |
 | `Essential 8 Maturity Level 1.json` | ACSC Essential Eight Maturity Model — Level 1 |
 | `Essential 8 Maturity Level 2.json` | ACSC Essential Eight Maturity Model — Level 2 |
 | `Essential 8 Maturity Level 3.json` | ACSC Essential Eight Maturity Model — Level 3 |

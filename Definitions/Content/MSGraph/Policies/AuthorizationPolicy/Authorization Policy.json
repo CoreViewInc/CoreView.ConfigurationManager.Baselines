@@ -10,12 +10,9 @@
     "allowedToCreateSecurityGroups": false,
     "allowedToCreateTenants": false,
     "allowedToReadBitlockerKeysForOwnedDevice": false,
-    "allowedToReadOtherUsers": true
+    "allowedToReadOtherUsers": true,
+    "permissionGrantPoliciesAssigned": []
   },
   "enabledPreviewFeatures": [],
-  "guestUserRoleId": "${urn:resource:MSGraph:RoleManagement:Directory:RoleDefinitions/Restricted Guest User?id}",
-  "permissionGrantPoliciesAssigned": [
-    "ManagePermissionGrantsForOwnedResource.microsoft-dynamically-managed-permissions-for-chat",
-    "ManagePermissionGrantsForOwnedResource.microsoft-dynamically-managed-permissions-for-team"
-  ]
+  "guestUserRoleId": "${urn:resource:MSGraph:RoleManagement:Directory:RoleDefinitions/Restricted Guest User?id}"
 }

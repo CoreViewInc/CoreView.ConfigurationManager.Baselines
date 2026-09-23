@@ -14,7 +14,7 @@
   },
   "enabledPreviewFeatures": [],
   "guestUserRoleId": "${urn:resource:MSGraph:RoleManagement:Directory:RoleDefinitions/Restricted Guest User?id}",
-  "permissionGrantPolicyIdsAssignedToDefaultUserRole": [
+  "permissionGrantPoliciesAssigned": [
     "ManagePermissionGrantsForOwnedResource.microsoft-dynamically-managed-permissions-for-chat",
     "ManagePermissionGrantsForOwnedResource.microsoft-dynamically-managed-permissions-for-team"
   ]

@@ -1,5 +1,5 @@
 {
-  "displayName": "Baseline - Requrie Compliant Device",
+  "displayName": "Baseline - Require Compliant Device",
   "conditions": {
     "applications": {
       "excludeApplications": [],

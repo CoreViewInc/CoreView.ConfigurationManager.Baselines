@@ -1,7 +1,6 @@
 {
   "Identity": "Global",
   "AllowFederatedUsers": false,
-  "AllowPublicUsers": false,
   "AllowTeamsConsumer": false,
   "AllowTeamsConsumerInbound": false,
   "BlockAllSubdomains": false,

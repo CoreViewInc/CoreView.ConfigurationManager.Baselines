@@ -25,7 +25,9 @@
   "PhishThresholdLevel": 3,
   "SpoofQuarantineTag": "${urn:resource:ExchangeOnline:QuarantinePolicy/DefaultFullAccessPolicy?Name}",
   "TargetedDomainActionRecipients": [],
-  "TargetedDomainProtectionAction": "Quarantine",
+  "TargetedDomainProtectionAction": [
+    "Quarantine"
+  ],
   "TargetedDomainQuarantineTag": "${urn:resource:ExchangeOnline:QuarantinePolicy/DefaultFullAccessPolicy?Name}",
   "TargetedDomainsToProtect": [],
   "TargetedUserActionRecipients": [],

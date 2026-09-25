@@ -25,11 +25,15 @@
   "PhishThresholdLevel": 3,
   "SpoofQuarantineTag": "${urn:resource:ExchangeOnline:QuarantinePolicy/DefaultFullAccessPolicy?Name}",
   "TargetedDomainActionRecipients": [],
-  "TargetedDomainProtectionAction": "Quarantine",
+  "TargetedDomainProtectionAction": [
+    "Quarantine"
+  ],
   "TargetedDomainQuarantineTag": "${urn:resource:ExchangeOnline:QuarantinePolicy/DefaultFullAccessPolicy?Name}",
   "TargetedDomainsToProtect": [],
   "TargetedUserActionRecipients": [],
-  "TargetedUserProtectionAction": "Quarantine",
+  "TargetedUserProtectionAction": [
+    "Quarantine"
+  ],
   "TargetedUserQuarantineTag": "${urn:resource:ExchangeOnline:QuarantinePolicy/DefaultFullAccessPolicy?Name}",
   "TargetedUsersToProtect": [
     "MOD Administrator;admin@${ResourceContext:TenantDomainName}"

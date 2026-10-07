@@ -4,7 +4,7 @@
     "applications": {
       "excludeApplications": [],
       "includeApplications": [
-        "${urn:resource:MSGraph:ServicePrincipals/d4ebce55-015a-49b5-a083-c84d1797ae8c?appId}"
+        "${urn:resource:MSGraph:ServicePrincipals/microsoft%20intune%20enrollment?appId}"
       ],
       "includeAuthenticationContextClassReferences": [],
       "includeUserActions": []

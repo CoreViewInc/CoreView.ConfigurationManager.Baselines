@@ -309,14 +309,14 @@
     },
     {
       "path": "Content/SharePoint/TenantProperties/Configuration.json",
-      "description": [          
-        "7.2.2 (L1) Ensure SharePoint and OneDrive integration with Azure AD B2B is enabled (Automated)",          
-        "7.2.4 (L2) Ensure OneDrive content sharing is restricted (Automated)",          
-        "2.1.5 (L2) Ensure Safe Attachments for SharePoint, OneDrive, and Microsoft Teams is Enabled (Automated)",          
+      "description": [
+        "7.2.2 (L1) Ensure SharePoint and OneDrive integration with Azure AD B2B is enabled (Automated)",
+        "7.2.4 (L2) Ensure OneDrive content sharing is restricted (Automated)",
+        "2.1.5 (L2) Ensure Safe Attachments for SharePoint, OneDrive, and Microsoft Teams is Enabled (Automated)",
         "7.2.7 (L1) Ensure link sharing is restricted in SharePoint and OneDrive (Automated)",
         "7.2.9 (L1) Ensure guest access to a site or OneDrive will expire automatically (Automated)",
         "7.2.10 (L1) Ensure reauthentication with verification code is restricted (Automated)",
-        "7.3.1 (L2) Ensure Office 365 SharePoint infected files are disallowed for download (Automated)"          
+        "7.3.1 (L2) Ensure Office 365 SharePoint infected files are disallowed for download (Automated)"
       ]
     },
     {
